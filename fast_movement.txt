@@ -1,0 +1,17 @@
+To move from word to word: w
+To go back a word: b
+To move from words separated by spaces: W and B
+To go to end of line: $
+To go to beginning of line: ^ First non space letter. 0 to real beginning
+To beginning of file: gg
+To end of file: G
+From paragraph to paragraph: }
+To find letter P say: fP
+To go back to find: F and letter
+Character before something: t<ch>
+Repeater: numberfw : find the second w instead of first
+Use this for all commands.
+Numbers alongside text-> :set number
+To go to certain line-> :<number>
+
+

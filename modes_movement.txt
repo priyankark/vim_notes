@@ -1,0 +1,14 @@
+Insert Mode: i. Default mode is command mode. Everything is put into buffer which holds information we are typing. Think of it as a blank file.
+
+To save go to cmd mode. Press esc for that. 
+
+To save into a file-> :write name_of_file.txt
+
+to quit-> :q
+
+To move down: j
+To move up: k
+To move left: h
+To move right: l
+
+To write and quit-> :wq
