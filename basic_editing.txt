@@ -1,0 +1,23 @@
+To switch on syntax colouring and numbers, edit vimrc
+
+For that use-> :edit ~./vimrc
+Enter insert mode and then
+syntax on
+set number
+
+To delete text: x
+To undo: u
+To delete a word: dw
+To delete the previous: db
+Use u to undo which undoes the last option
+
+To insert mode: cw
+To delete the entire line: dd
+To insert line/ change line: cc
+To delete two lines: 2dd
+To delete and enter insert mode for the same: 2cc
+
+Tip: Suppose you have a string in double quotes and you want to change whats inside that. In order to do that, use ct". c for delete and t for insert the cursor right before ".
+
+Other option: ci" -> i stands for inside
+To delete everything including the " : ca"

@@ -1,0 +1,14 @@
+dw->delete a  word
+p-> paste the word
+content is put right after the cursor
+To paste before the cursor: go back pressing h and then p
+or use P
+
+dj for deleting line and p for pasting  
+
+How to copy? To copy use y which stands for yank.
+
+Two yy copy the line. To copy everything before the cursor to the beginning of line y0.
+
+Paste the content 10 times: 10p.
+To delete letter under the cursor: use x.  
